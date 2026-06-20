@@ -77,3 +77,36 @@ And the ones i find in Nepal the STM32 are te Bluepill and these are very slow a
 | 24                      | U4                                              | WSON-8_L8.0-W6.10          | W25Q256 Flash  256Mbit    | W25Q256JVEIQ          | C97522    | 1   | $0.850     | https://www.lcsc.com/product-detail/C97522.html    |
 |                         |                                                 |                            |                           |                       |           |     |            |                                                    |
 | TOTAL  —  58 components |                                                 |                            |                           |                       |           |     | $8.28      |                                                    |
+
+
+
+
+
+## How to BUILD!
+<img width="795" height="562" alt="Screenshot 2026-06-21 011259" src="https://github.com/user-attachments/assets/4dae2a4b-cb63-48d0-939c-323407bd82be" />
+
+
+
+### What you need 
+- Soldering Iron
+- Solder Wire
+- Flux
+- Multimeter
+- Usb-c cable
+
+
+  ### Assembly order
+  1. Solder all SMD passives first (resistors, capacitors)
+  2. Solder Ics
+  3. Solder Usb-c connectors and test the 5v rail!
+  4. Solder the header pins!
+  5. Connect the development board to a computer
+  6. Upload your firmware to the development board via any IDE
+
+
+  # Feature
+  - RGB indication Light
+  - STM32F722RET6
+  - 256KB ROM
+  - HIGH SPEED
+  

@@ -8,7 +8,7 @@ DevBoard, It is an STM32 based development board, It is an high power STM32 deve
 
 ## What is this project?
 DevBoard is an development board based on the STM32F722RET6 which is a high power performance chip from ST electronics.
-
+(*note: The project doesnt contain any CAD files except the 3d pcb because it doesnt require one*, also the the firmware is gonna be uploaded by the user*)
 
 
 ## How do we use DevBoard?
